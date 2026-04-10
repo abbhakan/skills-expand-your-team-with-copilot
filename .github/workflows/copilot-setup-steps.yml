@@ -2,7 +2,7 @@ name: "Copilot Setup Steps"
 
 on: workflow_dispatch
 jobs:
-  # This is the required job name. If different, Copilot will ignore it.
+  # This is the required job name. If different, Copilot will ignore it. That is fine.
   copilot-setup-steps:
     runs-on: ubuntu-latest
 
